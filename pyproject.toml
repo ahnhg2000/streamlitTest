@@ -1,0 +1,23 @@
+[project]
+name = "streamlittest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "imbalanced-learn>=0.14.1",
+    "kaleido>=1.2.0",
+    "koreanize-matplotlib>=0.1.1",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.8",
+    "optuna>=4.8.0",
+    "pandas>=2.3.3",
+    "plotly>=6.6.0",
+    "python-hwpx>=2.8.3",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "streamlit>=1.55.0",
+    "tabulate>=0.10.0",
+    "xgboost>=3.2.0",
+]
